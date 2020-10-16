@@ -7,3 +7,4 @@ This project is a simple 2-motor driver controlled by an Arduino, where differen
 This project is created with Autodesk Tinkercad 2020
 
 ## Setup
+![Image of Schematic](https://ibb.co/m8D2Nnq)
